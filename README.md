@@ -1,7 +1,7 @@
 # LoudFlow — releases
 
-**LoudFlow reads any text on your screen aloud, in every app.** Get it at **[loudflow.ai](https://loudflow.ai)**.
-Windows and Mac are coming soon: [join the waitlist](https://loudflow.ai/download).
+**LoudFlow reads any text on your screen aloud, in every app.** Free for Windows 11 and Mac:
+**[loudflow.ai/download](https://loudflow.ai/download)**.
 
 This repository is only the update channel of the installed app. To get LoudFlow, go to
 [loudflow.ai](https://loudflow.ai), not here.
